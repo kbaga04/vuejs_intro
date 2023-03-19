@@ -1,0 +1,28 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "text": "Doctors Appointment",
+      "day": "March 1st at 2:30PM",
+      "reminder": true
+    },
+    {
+      "id": 2,
+      "text": "Cricket Game",
+      "day": "March 17th at 7:30PM",
+      "reminder": true
+    },
+    {
+      "id": 3,
+      "text": "Complete Web Project",
+      "day": "March 15th at 1:00PM",
+      "reminder": true
+    },
+    {
+      "text": "Make the backend work",
+      "day": "Today",
+      "reminder": false,
+      "id": 4
+    }
+  ]
+}
